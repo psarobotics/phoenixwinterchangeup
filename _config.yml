@@ -1,0 +1,8 @@
+# Book settings
+title: Palmetto Scholars Academy Phoenix Winter Change Up Tournament
+author: PSA High School Robotics Club
+logo: ./images/PSARobotics.jpg
+
+latex:
+  latex_documents:
+    targetname: book.tex

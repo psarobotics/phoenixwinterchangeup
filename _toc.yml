@@ -1,0 +1,25 @@
+- file: welcome
+- file: volunteers
+  sections:
+    - file: judges
+    - file: psaschool
+- file: recf
+  sections:
+   - file: codeofconduct
+- file: vexrobotics
+  sections:
+    - file: changeup_match
+    - file: changeup_skills
+- file: teams
+  sections:
+    - file: hawthorne 
+    - file: lextech
+    - file: holytrinity
+    - file: jpii
+    - file: psa
+    - file: riverbluff
+    - file: whtknoll
+    - file: wando
+    - file: westashley
+- file: agenda
+- file: awards
