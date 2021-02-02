@@ -7,3 +7,5 @@ Patrick J. Connelly is a retired professional engineer, having worked as a consu
 ## William McGrew
 
 After 33 years, William McGrew retired from Weirton Steel Corporation in Weirton, WV, where he was manager of the Hot and Cold Mills. After retirement, Mr. McGrew worked 4 years for Houghton Oil out of Valley Forge, PA. He then started his own company, McGrew Consulting, and consulted for Shell Services in chemical management and predictive and preventive maintenance in the auto and food industries. He has numerous certificates in Hydraulics, Pneumatics, Bearings and Gearing and is currently employed by the State Board of Technical and Comprehensive Education of South Carolina. He instructs at Trident Technical College as well as for Boeing Company through Readysc. He lives with his wife of 54 years in Charleston and enjoys fishing, golfing and spending time with his 10 grandchildren
+
+## Richard Reetz

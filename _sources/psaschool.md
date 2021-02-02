@@ -29,22 +29,22 @@ PSA is a Gifted and Talented Charter School located in North Charleston, South C
 
 PSA requires face coverings for all events and activities that take place indoors, or those outdoors where physical distancing will be difficult to maintain. Physical distancing requirements are at least six feet between individuals.
 
-## Robotics Mentors
+Robotics Mentors
 
-Carol Mullins, Kelli Frye, Marcel McAninch
+## Carol Mullins, Kelli Frye, Marcel McAninch
 
-## Robotics Instructor/Coach
+Robotics Instructor/Coach
 
-Donna Heisler
+## Donna Heisler
 
-## Event Partner
+Event Partner
 
-Robert Kinsella
+## Robert Kinsella
 
-## TM Manager/Tech Support
+TM Manager/Tech Support
 
-Fred Durand
+## Fred Durand
 
-## Palmetto Scholars Academy Principal
+Palmetto Scholars Academy Principal
 
-Corrigan Rutherford
+## Corrigan Rutherford
