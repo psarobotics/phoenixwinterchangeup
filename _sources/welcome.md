@@ -17,7 +17,7 @@ kernelspec:
 
 ## VRC Change Up
 
-December 5th 2020
+### February 13th 2021
 
 ```{image} ./images/PSARobotics.jpg
 :alt: psarobologo

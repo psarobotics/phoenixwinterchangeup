@@ -4,7 +4,8 @@
 | --------- | -------------------- |
 | 8:00am | Doors Open for Teams |
 | 8:30am | Check-in, Registration, Inspection |
-| 9:00am | Skills Field Opens |
+| 9:00am | Judging Interviews begin |
+| 9:30am | Skills Field Opens |
 | 9:45am | Driver Meeting |
 | 10:00am | Qualification Matches Begin |
 | 12:00pm | Lunch Break |

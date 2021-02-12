@@ -5,7 +5,7 @@
 | 3859B | Vortex | Wando High | Mount Pleasant, South Carolina |
 | 9447B | Wild Cards | Palmetto Scholars Academy |North Charleston, South Carolina |
 | 3859D | Dystopia | Wando High | Mount Pleasant, South Carolina |
-| 3859X | Dystopia | Wando High | Mount Pleasant, South Carolina |
+| 3859X | Flying Lawnmowers | Wando High | Mount Pleasant, South Carolina |
 | 61317A | JP2 S.H.I.E.L.D. | JOHN PAUL II CATHOLIC SCHOOL | Ridgeland, South Carolina |
 | 61317B | JP2 S.H.I.E.L.D. | JOHN PAUL II CATHOLIC SCHOOL | Ridgeland, South Carolina |
 | 9447H | ¯\\_(:/)_/¯ | Palmetto Scholars Academy | North Charleston, South Carolina |
